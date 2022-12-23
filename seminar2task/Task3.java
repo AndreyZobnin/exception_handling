@@ -21,7 +21,7 @@ public static void printSum(Integer a, Integer b) throws FileNotFoundException {
 }
  */
 
- package Seminar3Task3;
+ package Seminar2Task3;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -54,7 +54,7 @@ public class Task3 {
         try {
             double d = Double.parseDouble(str);
         }catch (IllegalArgumentException e) {
-            System.out.println("empty string");
+            System.out.println("пустая строка");
         }
     }
 
