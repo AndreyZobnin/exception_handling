@@ -1,4 +1,4 @@
-package Seminar1Task1;
+package Seminar2Task1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
