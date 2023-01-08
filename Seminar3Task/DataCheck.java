@@ -56,7 +56,7 @@ public class DataCheck {
                             fullErrorsMessages.append(e.getMessage());
                         }
                     } else {
-                        fullErrorsMessages.append("Слишком много элементов распознаны как ФИО!\n");
+                        fullErrorsMessages.append("Слишком много элементов распознаны как Ф.И.О.!\n");
                     }
                 }
             } else {
